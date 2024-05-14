@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+page,
+.content {
+  background: #f8f8f8;
+}
+.hot-section {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 16rpx;
+}
+.hot-section .guess-item {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  padding: 0 30rpx;
+  margin-bottom: 16rpx;
+  background-color: #fff;
+  align-items: center;
+}
+.hot-section .image-wrapper {
+  width: 30%;
+  height: 170rpx;
+  border-radius: 3px;
+  overflow: hidden;
+  background: #fff;
+}
+.hot-section .image-wrapper image {
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+}
+.hot-section .title {
+  font-size: 32rpx;
+  color: #303133;
+  line-height: 80rpx;
+}
+.hot-section .title2 {
+  font-size: 24rpx;
+  color: #909399;
+  line-height: 40rpx;
+  height: 80rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+}
+.hot-section .price {
+  font-size: 32rpx;
+  color: #fa436a;
+  line-height: 80rpx;
+}
+.hot-section .txt {
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  padding-left: 40rpx;
+  align-items: center;
+}
+.hot-section .hor-txt {
+  display: flex;
+  justify-content: space-between;
+}
+.hot-section .time {
+  font-size: 24rpx;
+  color: #303133;
+  line-height: 80rpx;
+}
+

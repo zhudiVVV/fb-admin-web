@@ -1,0 +1,11 @@
+{
+  "name": "mall-app-web-master",
+  "version": "1.0.0",
+  "dependencies": {
+    "uni-read-pages": "^1.0.5"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "sass-loader": "^10.5.2"
+  }
+}

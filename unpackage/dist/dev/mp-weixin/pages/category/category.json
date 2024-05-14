@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "分类",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u--image": "/uni_modules/uview-ui/components/u--image/u--image",
+    "u-tag": "/uni_modules/uview-ui/components/u-tag/u-tag",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup"
+  }
+}
